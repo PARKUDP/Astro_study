@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-astroproject-dev-214043-authRole",
+      "UnauthRoleArn": "arn:aws:iam::653482015863:role/amplify-astroproject-dev-214043-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::653482015863:role/amplify-astroproject-dev-214043-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-astroproject-dev-214043-deployment",
+      "UnauthRoleName": "amplify-astroproject-dev-214043-unauthRole",
+      "StackName": "amplify-astroproject-dev-214043",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:653482015863:stack/amplify-astroproject-dev-214043/7c140640-a647-11ee-adcf-06544023d833",
+      "AmplifyAppId": "d2uqwxel8u74y7"
+    }
+  }
+}
